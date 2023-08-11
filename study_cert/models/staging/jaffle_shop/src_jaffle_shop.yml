@@ -13,7 +13,7 @@ sources:
               - not_null
       
       - name: orders
-        colums:
+        columns:
           - name: id
             loaded_at_field: _etl_loaded_at
             freshness:
